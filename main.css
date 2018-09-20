@@ -1,0 +1,18 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(235, 235, 235);
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(132, 152, 240);
+  text-align: center;
+}
+
+p {
+  color: rgb(255, 87, 65);
+}
+
+img {
+  height: 25px;
+  width: 25px;
+}
